@@ -1,0 +1,24 @@
+{
+    "name": "js-framework-benchmark-angular-2",
+    "version": "1.1.1",
+    "description": "Angular.G3.Jsation demo",
+    "main": "index.js",
+    "js-framework-benchmark": {
+      "frameworkVersion": "",
+      "frameworkHomeURL": "",
+      "issues": [772]
+    },
+    "scripts": {
+      "build-dev": "exit 0",
+      "build-prod": "exit 0"
+    },
+    "keywords": [],
+    "author": "Thomas Nguyen",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/krausest/js-framework-benchmark",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/krausest/js-framework-benchmark.git"
+    }
+  }
+  
